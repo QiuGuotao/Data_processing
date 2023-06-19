@@ -1,0 +1,24 @@
+function textpath=pathfun(aa)
+aa=1;
+textpath=[
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01C14';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01C15';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01C16';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01C17';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D01';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D02';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D03';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D04';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D05';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D06';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D07';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D08';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D09';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D10';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D11';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D12';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D13';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D14';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D18';
+'C:\Users\guota\OneDrive\桌面\Matlab\DATA\01D19';
+];
